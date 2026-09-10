@@ -20,7 +20,7 @@
 
 <p align="center">
   <img
-    src="./bravix-technology.png"
+    src="./F8D62F1F-ED8B-4DBF-AE94-17FC03A30A44.png"
     alt="Bravix Creative Technology Stack — Next.js, React, TypeScript, Tailwind CSS, Shopify, Supabase, Sanity, Vercel and Framer Motion"
     width="100%"
   />
