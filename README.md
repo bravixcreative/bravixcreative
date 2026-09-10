@@ -4,53 +4,32 @@
        width="100%" />
 </p>
 
-<!-- WHAT WE DO -->
-
 <h2>What We Do</h2>
 
-<p>
-  <sub>F R O M &nbsp; I D E A &nbsp; T O &nbsp; I M P A C T</sub>
-</p>
-
-<br />
+<p><sub>F R O M &nbsp; I D E A &nbsp; T O &nbsp; I M P A C T</sub></p>
 
 <table>
-  <tr>
-    <td width="25%" valign="top">
-      <h3>▣ Web Development</h3>
-      <p>
-        Modern, responsive and high-performance websites
-        built around your brand.
-      </p>
-    </td>
-
-    <td width="25%" valign="top">
-      <h3>◇ E-commerce Development</h3>
-      <p>
-        Custom Shopify storefronts, theme development and
-        tailored commerce experiences.
-      </p>
-    </td>
-
-    <td width="25%" valign="top">
-      <h3>✦ UI/UX Design</h3>
-      <p>
-        Clean, intuitive interfaces designed around real
-        users and business goals.
-      </p>
-    </td>
-
-    <td width="25%" valign="top">
-      <h3>↗ SEO & Performance</h3>
-      <p>
-        Technical SEO, performance optimization and
-        scalable web architecture.
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="25%" valign="top">
+<h3>▣ Web Development</h3>
+<p>Modern, responsive and high-performance websites built around your brand.</p>
+</td>
+<td width="25%" valign="top">
+<h3>◇ E-commerce Development</h3>
+<p>Custom Shopify storefronts, theme development and tailored commerce experiences.</p>
+</td>
+<td width="25%" valign="top">
+<h3>✦ UI/UX Design</h3>
+<p>Clean, intuitive interfaces designed around real users and business goals.</p>
+</td>
+<td width="25%" valign="top">
+<h3>↗ SEO &amp; Performance</h3>
+<p>Technical SEO, performance optimization and scalable web architecture.</p>
+</td>
+</tr>
 </table>
 
-<br />
+<br>
 
 <!-- TECHNOLOGY -->
 
