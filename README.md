@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="./bravix-what-we-do.png"
+    src="./779E906C-1C0C-47D1-A269-64EF82034F68.png"
     alt="Bravix Creative — Web Development, E-commerce Development, UI/UX Design and SEO & Performance"
     width="100%"
   />
