@@ -1,12 +1,8 @@
-# Bravix Creative
-
-### Digital experiences built for modern brands.
-
-Bravix Creative is a web development studio focused on creating fast, scalable and thoughtfully designed digital experiences for brands and growing businesses.
-
-We combine **modern development, UI/UX and performance-focused thinking** to build websites and e-commerce experiences that are both visually refined and technically strong.
-
----
+<p align="center">
+  <img src="./bravix-github-hero.png"
+       alt="Bravix Creative — Digital experiences built for modern brands"
+       width="100%" />
+</p>
 
 ## What We Do
 
