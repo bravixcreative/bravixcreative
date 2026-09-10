@@ -12,11 +12,11 @@
 <tr>
 
 <td width="25%" valign="top">
-<a href="https://bravixcreative.com/services/web-development">
+<a href="https://bravixcreative.com/en/services/web-development">
 <img src="./icons/web-development.png" width="48" alt="Web Development">
 </a>
 <h3>
-<a href="https://bravixcreative.com/services/web-development">
+<a href="https://bravixcreative.com/en/services/web-development">
 Web Development
 </a>
 </h3>
@@ -24,11 +24,11 @@ Web Development
 </td>
 
 <td width="25%" valign="top">
-<a href="https://bravixcreative.com/services/ecommerce">
+<a href="https://bravixcreative.com/en/services/ecommerce-development">
 <img src="./icons/ecommerce.png" width="48" alt="E-commerce Development">
 </a>
 <h3>
-<a href="https://bravixcreative.com/services/ecommerce">
+<a href="https://bravixcreative.com/services/ecommerce-development">
 E-commerce Development
 </a>
 </h3>
@@ -36,11 +36,11 @@ E-commerce Development
 </td>
 
 <td width="25%" valign="top">
-<a href="https://bravixcreative.com/services/ui-ux">
+<a href="https://bravixcreative.com/en/services//ui-ux-design">
 <img src="./icons/uiux.png" width="48" alt="UI/UX Design">
 </a>
 <h3>
-<a href="https://bravixcreative.com/services/ui-ux">
+<a href="https://bravixcreative.com/en/services//ui-ux-design">
 UI/UX Design
 </a>
 </h3>
@@ -48,11 +48,11 @@ UI/UX Design
 </td>
 
 <td width="25%" valign="top">
-<a href="https://bravixcreative.com/services/seo">
+<a href="https://bravixcreative.com/en/services/seo-optimization">
 <img src="./icons/seo.png" width="48" alt="SEO & Performance">
 </a>
 <h3>
-<a href="https://bravixcreative.com/services/seo">
+<a href="https://bravixcreative.com/en/services/seo-optimization">
 SEO &amp; Performance
 </a>
 </h3>
