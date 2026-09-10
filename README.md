@@ -4,32 +4,17 @@
        width="100%" />
 </p>
 
-<h2>What We Do</h2>
+<!-- WHAT WE DO -->
 
-<p><sub>F R O M &nbsp; I D E A &nbsp; T O &nbsp; I M P A C T</sub></p>
+<p align="center">
+  <img
+    src="./bravix-what-we-do.png"
+    alt="Bravix Creative — Web Development, E-commerce Development, UI/UX Design and SEO & Performance"
+    width="100%"
+  />
+</p>
 
-<table>
-<tr>
-<td width="25%" valign="top">
-<h3>▣ Web Development</h3>
-<p>Modern, responsive and high-performance websites built around your brand.</p>
-</td>
-<td width="25%" valign="top">
-<h3>◇ E-commerce Development</h3>
-<p>Custom Shopify storefronts, theme development and tailored commerce experiences.</p>
-</td>
-<td width="25%" valign="top">
-<h3>✦ UI/UX Design</h3>
-<p>Clean, intuitive interfaces designed around real users and business goals.</p>
-</td>
-<td width="25%" valign="top">
-<h3>↗ SEO &amp; Performance</h3>
-<p>Technical SEO, performance optimization and scalable web architecture.</p>
-</td>
-</tr>
-</table>
-
-<br>
+<br />
 
 <!-- TECHNOLOGY -->
 
