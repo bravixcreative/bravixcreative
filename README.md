@@ -4,24 +4,88 @@
        width="100%" />
 </p>
 
-<!-- WHAT WE DO -->
+<h2>What We Do</h2>
 
-<p align="center">
-  <img
-    src="./779E906C-1C0C-47D1-A269-64EF82034F68.png"
-    alt="Bravix Creative — Web Development, E-commerce Development, UI/UX Design and SEO & Performance"
-    width="100%"
-  />
-</p>
+<p><sub>F R O M &nbsp; I D E A &nbsp; T O &nbsp; I M P A C T</sub></p>
 
-<!-- TECHNOLOGY -->
+<table>
+<tr>
 
-<p align="center">
-  <img
-    src="./F8D62F1F-ED8B-4DBF-AE94-17FC03A30A44.png"
-    alt="Bravix Creative Technology Stack — Next.js, React, TypeScript, Tailwind CSS, Shopify, Supabase, Sanity, Vercel and Framer Motion"
-    width="100%"
-  />
+<td width="25%" valign="top">
+<a href="https://bravixcreative.com/services/web-development">
+<img src="./icons/web-development.png" width="48" alt="Web Development">
+</a>
+<h3>
+<a href="https://bravixcreative.com/services/web-development">
+Web Development
+</a>
+</h3>
+<p>Modern, responsive and high-performance websites built around your brand.</p>
+</td>
+
+<td width="25%" valign="top">
+<a href="https://bravixcreative.com/services/ecommerce">
+<img src="./icons/ecommerce.png" width="48" alt="E-commerce Development">
+</a>
+<h3>
+<a href="https://bravixcreative.com/services/ecommerce">
+E-commerce Development
+</a>
+</h3>
+<p>Custom Shopify storefronts, theme development and tailored commerce experiences.</p>
+</td>
+
+<td width="25%" valign="top">
+<a href="https://bravixcreative.com/services/ui-ux">
+<img src="./icons/uiux.png" width="48" alt="UI/UX Design">
+</a>
+<h3>
+<a href="https://bravixcreative.com/services/ui-ux">
+UI/UX Design
+</a>
+</h3>
+<p>Clean, intuitive interfaces designed around real users and business goals.</p>
+</td>
+
+<td width="25%" valign="top">
+<a href="https://bravixcreative.com/services/seo">
+<img src="./icons/seo.png" width="48" alt="SEO & Performance">
+</a>
+<h3>
+<a href="https://bravixcreative.com/services/seo">
+SEO &amp; Performance
+</a>
+</h3>
+<p>Technical SEO, performance optimization and scalable web architecture.</p>
+</td>
+
+</tr>
+</table>
+---
+<h2>Technology</h2>
+
+<p><sub>M O D E R N &nbsp; T O O L S. &nbsp; B E T T E R &nbsp; S O L U T I O N S.</sub></p>
+
+<p>
+<a href="https://bravixcreative.com">
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+</a>
+
+<a href="https://bravixcreative.com">
+<img src="https://img.shields.io/badge/React-EEF6FA?style=for-the-badge&logo=react&logoColor=149ECA" alt="React">
+</a>
+
+<a href="https://bravixcreative.com">
+<img src="https://img.shields.io/badge/TypeScript-EEF4FB?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+</a>
+
+<a href="https://bravixcreative.com">
+<img src="https://img.shields.io/badge/Tailwind_CSS-EEF9FA?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
+</a>
+
+<a href="https://bravixcreative.com">
+<img src="https://img.shields.io/badge/Shopify-F3F8EE?style=for-the-badge&logo=shopify&logoColor=7AB55C" alt="Shopify">
+</a>
 </p>
 
 ---
