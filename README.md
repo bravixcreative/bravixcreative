@@ -14,8 +14,6 @@
   />
 </p>
 
-<br />
-
 <!-- TECHNOLOGY -->
 
 <p align="center">
@@ -26,7 +24,6 @@
   />
 </p>
 
-<br />
 ---
 
 ## Selected Work
