@@ -13,7 +13,7 @@
 
 <td width="25%" valign="top">
 <a href="https://bravixcreative.com/en/services/web-development">
-<img src="./icons/web-development.png" width="48" alt="Web Development">
+<img src="./web-development.png" width="48" alt="Web Development">
 </a>
 <h3>
 <a href="https://bravixcreative.com/en/services/web-development">
@@ -25,7 +25,7 @@ Web Development
 
 <td width="25%" valign="top">
 <a href="https://bravixcreative.com/en/services/ecommerce-development">
-<img src="./icons/ecommerce.png" width="48" alt="E-commerce Development">
+<img src="./ecommerce.png" width="48" alt="E-commerce Development">
 </a>
 <h3>
 <a href="https://bravixcreative.com/services/ecommerce-development">
@@ -37,7 +37,7 @@ E-commerce Development
 
 <td width="25%" valign="top">
 <a href="https://bravixcreative.com/en/services//ui-ux-design">
-<img src="./icons/uiux.png" width="48" alt="UI/UX Design">
+<img src="./uiux.png" width="48" alt="UI/UX Design">
 </a>
 <h3>
 <a href="https://bravixcreative.com/en/services//ui-ux-design">
@@ -49,7 +49,7 @@ UI/UX Design
 
 <td width="25%" valign="top">
 <a href="https://bravixcreative.com/en/services/seo-optimization">
-<img src="./icons/seo.png" width="48" alt="SEO & Performance">
+<img src="./seo.png" width="48" alt="SEO & Performance">
 </a>
 <h3>
 <a href="https://bravixcreative.com/en/services/seo-optimization">
