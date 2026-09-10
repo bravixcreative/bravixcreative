@@ -4,19 +4,31 @@
        width="100%" />
 </p>
 
-## What We Do
+<h2>What We Do</h2>
 
-**Web Development**  
+<table>
+<tr>
+<td width="25%" valign="top">
+<h3>🌐 Web Development</h3>
 Modern, responsive and high-performance websites built around your brand.
+</td>
 
-**E-commerce Development**  
+<td width="25%" valign="top">
+<h3>🛍️ E-commerce</h3>
 Custom Shopify storefronts, theme development and tailored commerce experiences.
+</td>
 
-**UI/UX Design**  
+<td width="25%" valign="top">
+<h3>✦ UI/UX Design</h3>
 Clean, intuitive interfaces designed around real users and business goals.
+</td>
 
-**SEO & Performance**  
+<td width="25%" valign="top">
+<h3>↗ SEO & Performance</h3>
 Technical SEO, performance optimization and scalable web architecture.
+</td>
+</tr>
+</table>
 
 ---
 
