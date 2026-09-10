@@ -4,51 +4,78 @@
        width="100%" />
 </p>
 
+<!-- WHAT WE DO -->
+
 <h2>What We Do</h2>
 
+<p>
+  <sub>F R O M &nbsp; I D E A &nbsp; T O &nbsp; I M P A C T</sub>
+</p>
+
+<br />
+
 <table>
-<tr>
-<td width="25%" valign="top">
-<h3>🌐 Web Development</h3>
-Modern, responsive and high-performance websites built around your brand.
-</td>
+  <tr>
+    <td width="25%" valign="top">
+      <h3>▣ Web Development</h3>
+      <p>
+        Modern, responsive and high-performance websites
+        built around your brand.
+      </p>
+    </td>
 
-<td width="25%" valign="top">
-<h3>🛍️ E-commerce</h3>
-Custom Shopify storefronts, theme development and tailored commerce experiences.
-</td>
+    <td width="25%" valign="top">
+      <h3>◇ E-commerce Development</h3>
+      <p>
+        Custom Shopify storefronts, theme development and
+        tailored commerce experiences.
+      </p>
+    </td>
 
-<td width="25%" valign="top">
-<h3>✦ UI/UX Design</h3>
-Clean, intuitive interfaces designed around real users and business goals.
-</td>
+    <td width="25%" valign="top">
+      <h3>✦ UI/UX Design</h3>
+      <p>
+        Clean, intuitive interfaces designed around real
+        users and business goals.
+      </p>
+    </td>
 
-<td width="25%" valign="top">
-<h3>↗ SEO & Performance</h3>
-Technical SEO, performance optimization and scalable web architecture.
-</td>
-</tr>
+    <td width="25%" valign="top">
+      <h3>↗ SEO & Performance</h3>
+      <p>
+        Technical SEO, performance optimization and
+        scalable web architecture.
+      </p>
+    </td>
+  </tr>
 </table>
 
----
+<br />
 
-## Technology
+<!-- TECHNOLOGY -->
+
+<h2>Technology</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+  <sub>M O D E R N &nbsp; T O O L S. &nbsp; B E T T E R &nbsp; S O L U T I O N S.</sub>
+</p>
+
+<br />
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-EEF6FA?style=for-the-badge&logo=react&logoColor=149ECA" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-EEF4FB?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-EEF9FA?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Shopify-F3F8EE?style=for-the-badge&logo=shopify&logoColor=7AB55C" alt="Shopify" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-EEF9F5?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Sanity-FCF2F0?style=for-the-badge&logo=sanity&logoColor=F03E2F" alt="Sanity" />
+  <img src="https://img.shields.io/badge/Vercel-F3F3F3?style=for-the-badge&logo=vercel&logoColor=000000" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Framer_Motion-F3F0FA?style=for-the-badge&logo=framer&logoColor=7C3AED" alt="Framer Motion" />
 </p>
-
 ---
 
 ## Selected Work
