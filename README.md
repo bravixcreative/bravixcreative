@@ -62,9 +62,17 @@ SEO &amp; Performance
 </tr>
 </table>
 ---
+<!-- TECHNOLOGY -->
+
 <h2>Technology</h2>
 
-<p><sub>M O D E R N &nbsp; T O O L S. &nbsp; B E T T E R &nbsp; S O L U T I O N S.</sub></p>
+<p>
+<sub>M O D E R N &nbsp; T O O L S. &nbsp; B E T T E R &nbsp; S O L U T I O N S.</sub>
+</p>
+
+<br>
+
+<h4>Core Development</h4>
 
 <p>
 <a href="https://bravixcreative.com">
@@ -80,13 +88,59 @@ SEO &amp; Performance
 </a>
 
 <a href="https://bravixcreative.com">
-<img src="https://img.shields.io/badge/Tailwind_CSS-EEF9FA?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/JavaScript-FFF8E5?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 </a>
 
 <a href="https://bravixcreative.com">
-<img src="https://img.shields.io/badge/Shopify-F3F8EE?style=for-the-badge&logo=shopify&logoColor=7AB55C" alt="Shopify">
+<img src="https://img.shields.io/badge/Tailwind_CSS-EEF9FA?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
 </a>
 </p>
+
+<h4>Commerce &amp; Backend</h4>
+
+<p>
+<a href="https://bravixcreative.com">
+<img src="https://img.shields.io/badge/Shopify-F3F8EE?style=for-the-badge&logo=shopify&logoColor=7AB55C" alt="Shopify">
+</a>
+
+<a href="https://bravixcreative.com">
+<img src="https://img.shields.io/badge/Liquid-F4F8EE?style=for-the-badge&logo=shopify&logoColor=7AB55C" alt="Liquid">
+</a>
+
+<a href="https://bravixcreative.com">
+<img src="https://img.shields.io/badge/Supabase-EEF9F5?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase">
+</a>
+
+<a href="https://bravixcreative.com">
+<img src="https://img.shields.io/badge/PostgreSQL-EEF3F8?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+</a>
+
+<a href="https://bravixcreative.com">
+<img src="https://img.shields.io/badge/Sanity-FCF2F0?style=for-the-badge&logo=sanity&logoColor=F03E2F" alt="Sanity">
+</a>
+</p>
+
+<h4>Platform &amp; Experience</h4>
+
+<p>
+<a href="https://bravixcreative.com">
+<img src="https://img.shields.io/badge/Vercel-F3F3F3?style=for-the-badge&logo=vercel&logoColor=000000" alt="Vercel">
+</a>
+
+<a href="https://bravixcreative.com">
+<img src="https://img.shields.io/badge/Framer_Motion-F5F1FC?style=for-the-badge&logo=framer&logoColor=7C3AED" alt="Framer Motion">
+</a>
+
+<a href="https://bravixcreative.com">
+<img src="https://img.shields.io/badge/GitHub-F3F3F3?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub">
+</a>
+
+<a href="https://bravixcreative.com">
+<img src="https://img.shields.io/badge/SEO-F6F2FC?style=for-the-badge&logo=google&logoColor=7C3AED" alt="SEO">
+</a>
+</p>
+
+<br>
 
 ---
 
