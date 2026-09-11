@@ -158,14 +158,12 @@ SEO &amp; Performance
 <tr>
 
 <td width="33%" valign="top">
-
 <p><sub>BRAND EXPERIENCE</sub></p>
-
-<h3>LUMBIA</h3>
+<h3><strong>LUMBIA</strong></h3>
 
 <p>
-Premium multilingual product experience built around visual storytelling,
-brand identity and a refined digital presence.
+Multilingual product experience combining premium visual storytelling
+with a refined, high-performance interface.
 </p>
 
 <p>
@@ -175,23 +173,16 @@ brand identity and a refined digital presence.
 <code>i18n</code>
 </p>
 
-<br>
-
-<a href="https://bravixcreative.com">
-<strong>View Project →</strong>
-</a>
-
+<p><a href="PROJECT-URL"><strong>View Project →</strong></a></p>
 </td>
 
 <td width="33%" valign="top">
-
 <p><sub>DIGITAL PLATFORM</sub></p>
-
-<h3>Erzenler</h3>
+<h3><strong>Erzenler</strong></h3>
 
 <p>
-Multilingual QR menu and restaurant ordering platform with real-time
-order management, admin tools and automatic receipt printing.
+Multilingual QR ordering platform with real-time order management,
+admin tools and automatic receipt printing.
 </p>
 
 <p>
@@ -201,23 +192,16 @@ order management, admin tools and automatic receipt printing.
 <code>Admin</code>
 </p>
 
-<br>
-
-<a href="https://www.erzenleretsofrasi.com.tr/en">
-<strong>View Project →</strong>
-</a>
-
+<p><a href="PROJECT-URL"><strong>View Project →</strong></a></p>
 </td>
 
 <td width="33%" valign="top">
-
 <p><sub>E-COMMERCE</sub></p>
-
-<h3>PINKCORE</h3>
+<h3><strong>PINKCORE</strong></h3>
 
 <p>
-Premium Shopify storefront for a women's activewear brand with a
-conversion-focused shopping experience and refined visual direction.
+Premium Shopify storefront combining strong brand direction
+with a conversion-focused shopping experience.
 </p>
 
 <p>
@@ -227,12 +211,7 @@ conversion-focused shopping experience and refined visual direction.
 <code>UI/UX</code>
 </p>
 
-<br>
-
-<a href="https://pinkcore.tr/">
-<strong>View Project →</strong>
-</a>
-
+<p><a href="PROJECT-URL"><strong>View Project →</strong></a></p>
 </td>
 
 </tr>
