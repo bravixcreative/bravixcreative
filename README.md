@@ -62,8 +62,6 @@ SEO &amp; Performance
 </tr>
 </table>
 
-<br>
----
 <!-- TECHNOLOGY -->
 
 <h2>Technology</h2>
@@ -137,9 +135,6 @@ SEO &amp; Performance
 <img src="https://img.shields.io/badge/GitHub-F3F3F3?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub">
 </a>
 
-<a href="https://bravixcreative.com">
-<img src="https://img.shields.io/badge/SEO-F6F2FC?style=for-the-badge&logo=google&logoColor=7C3AED" alt="SEO">
-</a>
 </p>
 
 <br>
