@@ -49,7 +49,7 @@ UI/UX Design
 
 <td width="25%" valign="top">
 <a href="https://bravixcreative.com/en/services/seo-optimization">
-<img src="./seo-performans.png" width="48" alt="SEO & Performance">
+<img src="./seo-performance.png" width="48" alt="SEO & Performance">
 </a>
 <h3>
 <a href="https://bravixcreative.com/en/services/seo-optimization">
