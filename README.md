@@ -25,7 +25,7 @@ Web Development
 
 <td width="25%" valign="top">
 <a href="https://bravixcreative.com/en/services/ecommerce-development">
-<img src="./ecommerce.png" width="48" alt="E-commerce Development">
+<img src="./ecommerce-development.png" width="48" alt="E-commerce Development">
 </a>
 <h3>
 <a href="https://bravixcreative.com/services/ecommerce-development">
@@ -37,7 +37,7 @@ E-commerce Development
 
 <td width="25%" valign="top">
 <a href="https://bravixcreative.com/en/services//ui-ux-design">
-<img src="./uiux.png" width="48" alt="UI/UX Design">
+<img src="./uiux-design.png" width="48" alt="UI/UX Design">
 </a>
 <h3>
 <a href="https://bravixcreative.com/en/services//ui-ux-design">
