@@ -28,7 +28,7 @@ Web Development
 <img src="./ecommerce-development.png" width="48" alt="E-commerce Development">
 </a>
 <h3>
-<a href="https://bravixcreative.com/services/ecommerce-development">
+<a href="https://bravixcreative.com/en/services/ecommerce-development">
 E-commerce Development
 </a>
 </h3>
