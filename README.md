@@ -173,7 +173,7 @@ with a refined, high-performance interface.
 <code>i18n</code>
 </p>
 
-<p><a href="PROJECT-URL"><strong>View Project →</strong></a></p>
+<p><a href="https://bravixcreative.com/en/projects/lumbia-shopify-fashion-store/"><strong>View Project →</strong></a></p>
 </td>
 
 <td width="33%" valign="top">
@@ -192,7 +192,7 @@ admin tools and automatic receipt printing.
 <code>Admin</code>
 </p>
 
-<p><a href="PROJECT-URL"><strong>View Project →</strong></a></p>
+<p><a href="https://bravixcreative.com/en/projects/erzenler-et-sofrasi-digital-restaurant-system/"><strong>View Project →</strong></a></p>
 </td>
 
 <td width="33%" valign="top">
