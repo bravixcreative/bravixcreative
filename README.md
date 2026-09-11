@@ -36,11 +36,11 @@ E-commerce Development
 </td>
 
 <td width="25%" valign="top">
-<a href="https://bravixcreative.com/en/services//ui-ux-design">
+<a href="https://bravixcreative.com/en/services/ui-ux-design">
 <img src="./uiux-design.png" width="48" alt="UI/UX Design">
 </a>
 <h3>
-<a href="https://bravixcreative.com/en/services//ui-ux-design">
+<a href="https://bravixcreative.com/en/services/ui-ux-design">
 UI/UX Design
 </a>
 </h3>
