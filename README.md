@@ -218,6 +218,58 @@ with a conversion-focused shopping experience.
 
 ---
 
+<h2>Open Source & Engineering</h2>
+
+<p>
+  <sub>B U I L T &nbsp; B Y &nbsp; B R A V I X</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Resource Vault</h3>
+      <p>
+        Full-stack resource portal with authentication,
+        access control and administration workflows.
+      </p>
+      <p>
+        <strong>Next.js · Supabase · PostgreSQL</strong>
+      </p>
+      <a href="https://github.com/bravixcreative/bravix-resource-vault-showcase">
+        View Repository →
+      </a>
+    </td>
+
+    <td width="33%" valign="top">
+      <h3>Next Starter</h3>
+      <p>
+        Production-ready foundation for multilingual,
+        scalable Next.js projects.
+      </p>
+      <p>
+        <strong>Next.js · TypeScript · Tailwind CSS</strong>
+      </p>
+      <a href="https://github.com/bravixcreative/bravix-next-starter">
+        View Repository →
+      </a>
+    </td>
+
+    <td width="33%" valign="top">
+      <h3>Shopify Sections</h3>
+      <p>
+        Reusable Shopify components built for modern
+        storefront development.
+      </p>
+      <p>
+        <strong>Liquid · Shopify · Responsive UI</strong>
+      </p>
+      <a href="https://github.com/bravixcreative/shopify-sections">
+        View Repository →
+      </a>
+    </td>
+  </tr>
+</table>
+
 <!-- CTA -->
 
 <h2>Let's Build Something Great</h2>
