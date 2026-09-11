@@ -144,22 +144,101 @@ SEO &amp; Performance
 
 ---
 
-## Selected Work
+<!-- SELECTED WORK -->
 
-### LUMBIA
-Premium product showcase and brand experience built with Next.js.
+<h2>Selected Work</h2>
 
-**Next.js · TypeScript · Tailwind CSS · Internationalization**
+<p>
+  <sub>R E A L &nbsp; P R O J E C T S. &nbsp; R E A L &nbsp; R E S U L T S.</sub>
+</p>
 
-### Erzenler
-Multilingual QR menu and restaurant ordering platform with real-time order management and automatic receipt printing.
+<br>
 
-**Next.js · Supabase · QR Ordering · Admin Dashboard**
+<table>
+<tr>
 
-### PINKCORE
-Premium Shopify storefront for a women's activewear brand.
+<td width="33%" valign="top">
 
-**Shopify · Liquid · E-commerce · UI/UX**
+<p><sub>BRAND EXPERIENCE</sub></p>
+
+<h3>LUMBIA</h3>
+
+<p>
+Premium multilingual product experience built around visual storytelling,
+brand identity and a refined digital presence.
+</p>
+
+<p>
+<code>Next.js</code>
+<code>TypeScript</code>
+<code>Tailwind CSS</code>
+<code>i18n</code>
+</p>
+
+<br>
+
+<a href="https://bravixcreative.com">
+<strong>View Project →</strong>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<p><sub>DIGITAL PLATFORM</sub></p>
+
+<h3>Erzenler</h3>
+
+<p>
+Multilingual QR menu and restaurant ordering platform with real-time
+order management, admin tools and automatic receipt printing.
+</p>
+
+<p>
+<code>Next.js</code>
+<code>Supabase</code>
+<code>QR Ordering</code>
+<code>Admin</code>
+</p>
+
+<br>
+
+<a href="https://bravixcreative.com">
+<strong>View Project →</strong>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<p><sub>E-COMMERCE</sub></p>
+
+<h3>PINKCORE</h3>
+
+<p>
+Premium Shopify storefront for a women's activewear brand with a
+conversion-focused shopping experience and refined visual direction.
+</p>
+
+<p>
+<code>Shopify</code>
+<code>Liquid</code>
+<code>E-commerce</code>
+<code>UI/UX</code>
+</p>
+
+<br>
+
+<a href="https://bravixcreative.com">
+<strong>View Project →</strong>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 ---
 
