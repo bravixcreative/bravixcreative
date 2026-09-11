@@ -203,7 +203,7 @@ order management, admin tools and automatic receipt printing.
 
 <br>
 
-<a href="https://bravixcreative.com">
+<a href="https://www.erzenleretsofrasi.com.tr/en">
 <strong>View Project →</strong>
 </a>
 
@@ -229,7 +229,7 @@ conversion-focused shopping experience and refined visual direction.
 
 <br>
 
-<a href="https://bravixcreative.com">
+<a href="https://pinkcore.tr/">
 <strong>View Project →</strong>
 </a>
 
