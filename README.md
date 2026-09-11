@@ -62,6 +62,8 @@ SEO &amp; Performance
 </tr>
 </table>
 
+<br>
+---
 <!-- TECHNOLOGY -->
 
 <h2>Technology</h2>
