@@ -211,7 +211,7 @@ with a conversion-focused shopping experience.
 <code>UI/UX</code>
 </p>
 
-<p><a href="PROJECT-URL"><strong>View Project →</strong></a></p>
+<p><a href="https://bravixcreative.com/en/projects/"><strong>View Project →</strong></a></p>
 </td>
 
 </tr>
