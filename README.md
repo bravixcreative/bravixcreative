@@ -221,14 +221,50 @@ with a conversion-focused shopping experience.
 
 ---
 
-## Let's Build Something Great
+<!-- CTA -->
 
-Have a project in mind or looking for a development partner?
+<h2>Let's Build Something Great</h2>
 
-**Website:** https://bravixcreative.com  
-**Instagram:** https://instagram.com/bravixcreative  
-**Email:** bravixcreative@gmail.com
+<p>
+<sub>B E T T E R &nbsp; W E B &nbsp; E X P E R I E N C E S. &nbsp; T O G E T H E R.</sub>
+</p>
 
----
+<p>
+Have a project in mind, launching a new brand, or looking for a reliable development partner?
+We'd love to hear from you.
+</p>
 
-<sub>Designed & developed by Bravix Creative.</sub>
+<p>
+<a href="https://bravixcreative.com">
+  <img src="https://img.shields.io/badge/Visit_Our_Website-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Visit Bravix Creative">
+</a>
+
+<a href="https://instagram.com/bravixcreative">
+  <img src="https://img.shields.io/badge/Instagram-F6EEF4?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Bravix Creative Instagram">
+</a>
+
+<a href="mailto:bravixcreative@gmail.com">
+  <img src="https://img.shields.io/badge/Start_A_Project-EEF4FB?style=for-the-badge&logo=gmail&logoColor=4285F4" alt="Contact Bravix Creative">
+</a>
+</p>
+
+<br>
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+<strong>Bravix Creative</strong><br>
+<sub>WEB DEVELOPMENT · E-COMMERCE · UI/UX · SEO</sub>
+</td>
+
+<td width="35%" valign="middle" align="right">
+<sub>CLEAN CODE. MEANINGFUL BRANDS.</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+<sub>Designed &amp; developed by Bravix Creative.</sub>
+</p>
